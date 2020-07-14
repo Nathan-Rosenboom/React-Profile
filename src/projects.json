@@ -1,0 +1,7 @@
+{
+    "ProjectOne": {
+        "name": "Gratitude Journal",
+        "image": "./assets/Gratitude_journal_thumbnail",
+        "DeployedLink": "https://safe-dawn-22162.herokuapp.com/"
+    }
+}
